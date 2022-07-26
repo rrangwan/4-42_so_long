@@ -12,10 +12,12 @@
 
 #ifndef SO_LONG_H
 # define SO_LONG_H
+
 # include <fcntl.h>
 # include <unistd.h>
 # include <stdlib.h>
 # include "mlx/mlx.h"
+
 # define PIX 32
 # define RIGHT 2
 # define LEFT 0
